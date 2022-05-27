@@ -3,7 +3,7 @@
   "description": "Webcomponent s1m0n-game following open-wc recommendations",
   "license": "MIT",
   "author": "s1m0n-game",
-  "version": "0.0.0",
+  "version": "0.0.3",
   "main": "index.js",
   "module": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "start": "web-dev-server"
   },
   "dependencies": {
-    "@lit-labs/motion": "^1.0.2",
+    "@fluentui/web-components": "^2.5.1",
     "lit": "^2.0.2"
   },
   "devDependencies": {
